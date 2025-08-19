@@ -1,55 +1,40 @@
-# Projeto_Leilao_SQL
+# Projeto_Leilao_SQL 🗃️📊  
 <!-- Projeto desenvolvido para a disciplina de Banco de Dados -->
 
-Este projeto diz respeito a última avaliação da disciplina de Banco de Dados do curso de Engenharia da Computação.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Descrição do Projeto
+Este projeto diz respeito à última avaliação da disciplina de Banco de Dados do curso de Engenharia da Computação.
 
-Neste projeto criaremos em detalhes um sistema para o gerenciamento de Leilões
-online. Foram realizadas todas as etapas de modelagem dos dados, passando pelos
-níveis conceitual, lógico e físico. Por fim, foi realizado o povoamento do banco de
-dados, bem como atualizações e consultas.
+## 📌 Descrição do Projeto
 
-### Mini-mundo
+Neste projeto criaremos em detalhes um sistema para o gerenciamento de Leilões online. Foram realizadas todas as etapas de modelagem dos dados, passando pelos níveis conceitual, lógico e físico. Por fim, foi realizado o povoamento do banco de dados, bem como atualizações e consultas.
 
-"Uma empresa que organiza leilões decidiu criar um banco de dados, para ser
-usado no sistema que a empresa está desenvolvendo para promover leilões online.
-Deseja-se que instituições públicas e privadas possam organizar leilões, sendo que em
-cada leilão sejam leiloados diferentes lotes compostos por uma ou mais mercadorias.
-Desse modo, os compradores fazem lances no lote que está sendo leiloado, com
-a tentativa de arrematá-lo. É importante que cada leilão tenha um identificador
-único, bem como possa armazenar a instituição ou órgão que está leiloando o lote.
-Ademais, cada leilão deve ter uma data de começo e outra data para estabelecer o
-fim.
+### 🧠 Mini-mundo
 
-Com o intuito de estabelecer o ganhador de um leilão, é preciso que cada lance
-tenha o identificador do comprador que o fez, bem como o identificador do lote para
-o qual o lance foi feito, além do valor, data e horário do lance.
+"Uma empresa que organiza leilões decidiu criar um banco de dados, para ser usado no sistema que a empresa está desenvolvendo para promover leilões online. Deseja-se que instituições públicas e privadas possam organizar leilões, sendo que em cada leilão sejam leiloados diferentes lotes compostos por uma ou mais mercadorias.  
+Desse modo, os compradores fazem lances no lote que está sendo leiloado, com a tentativa de arrematá-lo. É importante que cada leilão tenha um identificador único, bem como possa armazenar a instituição ou órgão que está leiloando o lote.  
+Ademais, cada leilão deve ter uma data de começo e outra data para estabelecer o fim.  
 
-O sistema deve permitir que pessoas físicas, com indicação do CPF, e jurídicas,
-com indicação do CNPJ, possam fazer lances e arrematar os lotes, desde que suas
-informações de contato e endereço estejam cadastradas para o posterior contato e
-envio das mercadorias."
+Com o intuito de estabelecer o ganhador de um leilão, é preciso que cada lance tenha o identificador do comprador que o fez, bem como o identificador do lote para o qual o lance foi feito, além do valor, data e horário do lance.  
 
+O sistema deve permitir que pessoas físicas, com indicação do CPF, e jurídicas, com indicação do CNPJ, possam fazer lances e arrematar os lotes, desde que suas informações de contato e endereço estejam cadastradas para o posterior contato e envio das mercadorias."
 
-## Ferramentas Tecnologias
-Para o desenvolvimento deste projeto foram usads os conceitos estudados ao longo da disciplina de Banco de Dados, a saber:
-<ul>
-    <li> Modelo Entidade e Relacionamento </li>
-    <li> Modelagem Relacional </li>
-    <li> SQL - Structured Query Language</li>
-</ul>
+## 🛠️ Ferramentas e Tecnologias
 
-As tecnolgias usadas foram:
-<ul>
-   <li> BRModelo </li>
-    <li> Mariadb-server </li>
-    <li> LaTex </li>
-</ul>
+Para o desenvolvimento deste projeto foram usados os conceitos estudados ao longo da disciplina de Banco de Dados, a saber:
+- 📌 Modelo Entidade e Relacionamento  
+- 🧩 Modelagem Relacional  
+- 💻 SQL - Structured Query Language  
 
+As tecnologias usadas foram:
+- 🧮 BRModelo  
+- 🐬 Mariadb-server  
+- 📄 LaTeX  
 
+## 👥 Contribuidores
 
-## Contribuidores
 <table>
   <tr>
     <td align="center">
